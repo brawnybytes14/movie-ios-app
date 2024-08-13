@@ -2,6 +2,11 @@
   "expo": {
     "name": "MovieTicketBooking",
     "slug": "MovieTicketBooking",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "671083cc-8fd8-40ea-b43b-e292fbd2f14f"
+      }
+    }
   }
 }
